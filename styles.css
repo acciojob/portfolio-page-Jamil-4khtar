@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+img {
+	width:100px;
+	border-radius: 50%;
+}
+li {
+	list-style-type: disclosure-closed;
+}
